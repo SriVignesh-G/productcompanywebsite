@@ -1,0 +1,109 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.header{
+    background-color: rgb(80, 90, 87);
+    border-bottom-left-radius: 30px;
+    border-bottom-right-radius: 30px;
+    height: 100px;
+}
+span{
+    color: rgb(255, 255, 255);
+}
+ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 43%;
+}
+.name{
+    display: inline-block;
+    margin-top: 15px;
+    font-size: 65px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+a{
+    font-size: 25px; 
+    color: black;
+}
+a:hover{
+    color: white;
+    cursor: pointer;
+}
+.title{
+    text-align: center;
+    padding: 20px;
+    font-size: x-large;
+}
+.container{
+    margin-left: 180px;
+    vertical-align: top;
+    display: flex;
+    flex-direction: row;
+}
+.form{
+    display: inline-block;
+    height: 350px;
+    width: 500px;
+    background-color: rgb(151, 155, 155);
+    font-size: 50px;
+    font-weight: bolder;
+    padding: 20px;
+}
+.pnm{
+    width: 280px;
+    height: 50px;
+    display: inline;
+    margin-left: 15px;
+    background-color: transparent;
+}
+input::placeholder{
+    padding: 10px;
+    font-size: 30px;
+    color: black;
+}
+.query{
+    margin-top: 15px;
+    font-size: 30px;
+    padding-bottom: 50px;
+    height: 80px;
+    margin-left: 15px;
+    background-color: transparent;
+}
+button{
+    width: 100px;
+    height: 50px;
+    margin-left: 15px;
+    background-color: rgb(70, 68, 68);
+    border-radius: 40px;
+    border: none;
+}
+button:hover{
+    background-color: black;
+    color: white;
+}
+.info{
+    margin-left: 20px;
+    display: inline-block;
+    height: 390px;
+    width: 500px;
+    background-color: rgb(12, 12, 12);
+    color: white;
+}
+h2{
+    padding: 13px;
+}
+h3{
+    padding-left: 30px;
+    font-family: sans-serif;
+    padding: 13px;
+}
+p{
+    margin-left: 40px;
+}
+h5{
+    display: inline;
+    margin-left: 10px;
+}
