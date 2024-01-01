@@ -30,7 +30,7 @@ Validate the layout in various browsers.
 
 Validate the HTML code.
 
-### Step 6:
+### Step 7:
 
 Publish the website in the given URL.
 
@@ -612,18 +612,8 @@ h5{
 ```
 
 ## OUTPUT:
+![collage](https://github.com/SriVignesh-G/productcompanywebsite/assets/147576510/b34e53c6-0584-4fed-a7de-1a04a150caae)
 
-### Home Page:
-![homepage](./images/homepage.jpg)
-
-### Product Page:
-![productpage](./images/productpage.jpg)
-
-### About Page:
-![aboutpage](./images/aboutpage.jpg)
-
-### Contact Page:
-![contactpage](./images/contactpage.jpg)
 
 ## Result:
 
