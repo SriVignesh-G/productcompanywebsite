@@ -22,14 +22,6 @@ Updating the sample content.
 
 Choose the appropriate style and color scheme.
 
-### Step 5:
-
-Validate the layout in various browsers.
-
-### Step 6:
-
-Validate the HTML code.
-
 ### Step 7:
 
 Publish the website in the given URL.
